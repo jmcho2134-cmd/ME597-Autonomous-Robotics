@@ -34,7 +34,10 @@ This repository contains the core navigation, planning, and perception pipeline 
 * **Sensors:** 2D LiDAR, RGB Camera
 
 ## Demo / Results
-> **Note:** Insert your GIFs or screenshots below.
-* **[Image/GIF 1: Robot successfully replanning path around a dynamic obstacle]**
-* **[Image/GIF 2: OpenCV window showing target detection and bounding boxes]**
-* **[Image/GIF 3: RViz view of the inflated cost-map and $A^*$ trajectory]**
+**[Frontier Based Mapping Simulation _ Task_1]**
+https://github.com/user-attachments/assets/4bdf2d2c-c24a-47eb-ac11-5e0d5d434f9f
+**[A* algorithm with dynamic obstacle avoidance Task_2]**
+https://github.com/user-attachments/assets/619038f6-644c-4572-871d-6a2463e50102
+**[Ball Finder with OpenCv Camera and Exploration Method]**
+https://github.com/user-attachments/assets/bd683b73-ef20-45b0-857b-b7054d8b428c
+
