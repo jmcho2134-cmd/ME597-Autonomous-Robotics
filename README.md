@@ -35,9 +35,15 @@ This repository contains the core navigation, planning, and perception pipeline 
 
 ## Demo / Results
 **[Frontier Based Mapping Simulation _ Task_1]**
-https://github.com/user-attachments/assets/4bdf2d2c-c24a-47eb-ac11-5e0d5d434f9f
-**[A* algorithm with dynamic obstacle avoidance Task_2]**
-https://github.com/user-attachments/assets/619038f6-644c-4572-871d-6a2463e50102
-**[Ball Finder with OpenCv Camera and Exploration Method]**
+
 https://github.com/user-attachments/assets/bd683b73-ef20-45b0-857b-b7054d8b428c
+
+
+**[A* algorithm with dynamic obstacle avoidance Task_2]**
+
+https://github.com/user-attachments/assets/619038f6-644c-4572-871d-6a2463e50102
+
+**[Ball Finder with OpenCv Camera and Exploration Method]**
+
+https://github.com/user-attachments/assets/4bdf2d2c-c24a-47eb-ac11-5e0d5d434f9f
 
